@@ -14,7 +14,7 @@ public class Livro
     {
         string status;
 
-        if (Disponivel)
+        if (Disponivel == true)
         {
             status = "Disponível";
         }

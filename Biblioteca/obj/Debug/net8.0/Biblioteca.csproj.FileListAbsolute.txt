@@ -1,0 +1,15 @@
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.exe
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.deps.json
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.runtimeconfig.json
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.dll
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\bin\Debug\net8.0\Biblioteca.pdb
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.dll
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\refint\Biblioteca.dll
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.pdb
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\Biblioteca.genruntimeconfig.cache
+C:\Projetos\Projeto\Sistema.Gestao.Biblioteca\Biblioteca\obj\Debug\net8.0\ref\Biblioteca.dll
