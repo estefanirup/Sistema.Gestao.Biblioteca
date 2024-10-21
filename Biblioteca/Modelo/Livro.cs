@@ -4,7 +4,7 @@ namespace Biblioteca.Modelo;
 
 public class Livro
 {
-    public int Id { get; set; }
+    public int LivroId { get; set; }
     public string Titulo { get; set; }
     public string Autor { get; set; }
     public string Genero { get; set; }
@@ -22,6 +22,6 @@ public class Livro
         {
             status = "Indisponível";
         }
-        return $"[{Id}, {Titulo}, {Autor}, {Genero}, {status}]";
+        return $"[{LivroId}, {Titulo}, {Autor}, {Genero}, {status}]";
     }
 }
